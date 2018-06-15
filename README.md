@@ -1,5 +1,9 @@
 # keynote-yellow-theme
 
+[Ricty Diminished Discord](https://github.com/edihbrandon/RictyDiminished) font is required.
+
+## example
+
 <img src="https://user-images.githubusercontent.com/1413408/40011062-9f1c97de-57e1-11e8-8eeb-ebe2692405f1.jpeg" width="512" />
 <img src="https://user-images.githubusercontent.com/1413408/40011063-9f5351ac-57e1-11e8-989d-07531f47e340.jpeg" width="512" />
 <img src="https://user-images.githubusercontent.com/1413408/40011064-9f8cfe66-57e1-11e8-8393-c7e81bf4848b.jpeg" width="512" />
